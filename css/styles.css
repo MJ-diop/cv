@@ -390,3 +390,41 @@ footer h5 {
     color: #fff;
     font-weight: normal;
 }
+
+/* CONTACT */
+#contact {
+    background: #d82c2e;
+}
+
+#contact .heading h2 {
+    color: #fff;
+}
+
+#contact-form {
+    font-size: 20px;
+    color: #fff;
+}
+
+.form-control {
+    height: 50px;
+    font-size: 18px;
+}
+
+#contact-form input[type=submit] {
+    margin: 40px auto 0px;
+    display: block;
+}
+
+.comments {
+    font-style: italic;
+    font-size: 18px;
+    color: #fff;
+    height: 25px
+}
+
+#contact-form .thank-you {
+    text-align: center;
+    margin-top: 15px;
+    font-weight: bold;
+    font-size: 22px;
+}
